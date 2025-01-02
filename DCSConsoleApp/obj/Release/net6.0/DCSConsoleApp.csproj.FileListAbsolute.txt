@@ -1,0 +1,17 @@
+F:\_ModProject\DCS\DCSConsoleApp\DCSConsoleApp\bin\Release\net6.0\DCSConsoleApp.exe
+F:\_ModProject\DCS\DCSConsoleApp\DCSConsoleApp\bin\Release\net6.0\DCSConsoleApp.deps.json
+F:\_ModProject\DCS\DCSConsoleApp\DCSConsoleApp\bin\Release\net6.0\DCSConsoleApp.runtimeconfig.json
+F:\_ModProject\DCS\DCSConsoleApp\DCSConsoleApp\bin\Release\net6.0\DCSConsoleApp.dll
+F:\_ModProject\DCS\DCSConsoleApp\DCSConsoleApp\bin\Release\net6.0\DCSConsoleApp.pdb
+F:\_ModProject\DCS\DCSConsoleApp\DCSConsoleApp\bin\Release\net6.0\TrueGearSDK.dll
+F:\_ModProject\DCS\DCSConsoleApp\DCSConsoleApp\obj\Release\net6.0\DCSConsoleApp.csproj.AssemblyReference.cache
+F:\_ModProject\DCS\DCSConsoleApp\DCSConsoleApp\obj\Release\net6.0\DCSConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\_ModProject\DCS\DCSConsoleApp\DCSConsoleApp\obj\Release\net6.0\DCSConsoleApp.AssemblyInfoInputs.cache
+F:\_ModProject\DCS\DCSConsoleApp\DCSConsoleApp\obj\Release\net6.0\DCSConsoleApp.AssemblyInfo.cs
+F:\_ModProject\DCS\DCSConsoleApp\DCSConsoleApp\obj\Release\net6.0\DCSConsoleApp.csproj.CoreCompileInputs.cache
+F:\_ModProject\DCS\DCSConsoleApp\DCSConsoleApp\obj\Release\net6.0\DCSConsoleApp.csproj.CopyComplete
+F:\_ModProject\DCS\DCSConsoleApp\DCSConsoleApp\obj\Release\net6.0\DCSConsoleApp.dll
+F:\_ModProject\DCS\DCSConsoleApp\DCSConsoleApp\obj\Release\net6.0\refint\DCSConsoleApp.dll
+F:\_ModProject\DCS\DCSConsoleApp\DCSConsoleApp\obj\Release\net6.0\DCSConsoleApp.pdb
+F:\_ModProject\DCS\DCSConsoleApp\DCSConsoleApp\obj\Release\net6.0\DCSConsoleApp.genruntimeconfig.cache
+F:\_ModProject\DCS\DCSConsoleApp\DCSConsoleApp\obj\Release\net6.0\ref\DCSConsoleApp.dll

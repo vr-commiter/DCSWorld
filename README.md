@@ -16,5 +16,6 @@ If the path does not exist, create a new folder and create a path
 ![](https://truegear.s3.bitiful.net/DCSWorld%2Fimg2.gif)
 
 **Start the "TrueGear Player" before starting the "DCSConsoleApp.exe"**
+
 4.Start "Workspace/data/223750/app/DCSConsoleApp.exe"(You can create a shortcut for easier startup next time)
 ![](https://truegear.s3.bitiful.net/DCSWorld%2Fimg3.gif)
